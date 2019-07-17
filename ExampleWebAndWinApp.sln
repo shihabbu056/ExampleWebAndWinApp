@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleWinApp", "ExampleWin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEmptyApp", "WebEmptyApp\WebEmptyApp.csproj", "{F83B09CC-287A-4EDF-AB5F-4BC927E72EEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleWebAndWin.DatabaseContext", "ExampleWebAndWin.DatabaseContext\ExampleWebAndWin.DatabaseContext.csproj", "{4AC58F71-17B7-4B09-A2C4-77E352B83E6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F83B09CC-287A-4EDF-AB5F-4BC927E72EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F83B09CC-287A-4EDF-AB5F-4BC927E72EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F83B09CC-287A-4EDF-AB5F-4BC927E72EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC58F71-17B7-4B09-A2C4-77E352B83E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC58F71-17B7-4B09-A2C4-77E352B83E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC58F71-17B7-4B09-A2C4-77E352B83E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC58F71-17B7-4B09-A2C4-77E352B83E6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
