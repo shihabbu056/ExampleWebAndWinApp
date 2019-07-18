@@ -32,9 +32,9 @@ namespace ExampleWebAndWin.Bll.Bll
             return _studentRepository.GetAll();
         }
 
-        public Student GetById()
+        public Student GetById(Student student)
         {
-            return _
+            return _studentRepository.GetById(student);
         }
     }
 }

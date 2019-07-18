@@ -45,6 +45,7 @@ namespace ExampleWebAndWin.Repository.Repository
         public Student GetById(Student student)
         {
             Student aStudent = db.Students.FirstOrDefault();
+            return aStudent;
         }
     }
 }
